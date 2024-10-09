@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Enterprise level FullStack Ecommerce Application](https://github.com/ixahil/eCommerce-fullstack)
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **LLM, AI, Automation**
 
 - 👨‍💻 All of my projects are available at [sahildev.pro](sahildev.pro)
 
@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **React, Next.js, Node.js, Express.js**
 
-- 📫 How to reach me **sahildev.pro**
+- 📫 How to reach me [sahildev.pro](www.sahildev.pro)
 
-- 📄 Know about my experiences [sahildev.pro](sahildev.pro)
+- 📄 Know about my experiences [sahildev.pro](www.sahildev.pro)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
